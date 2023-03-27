@@ -1,0 +1,11 @@
+[package]
+name = "typography"
+version = "0.0.1"
+edition = "2021"
+license = "Apache-2.0/MIT"
+authors = ["Ivan Ukhov <ivan.ukhov@gmail.com>"]
+description = "The package provides a typography toolbox."
+documentation = "https://docs.rs/typography"
+homepage = "https://github.com/bodoni/typography"
+repository = "https://github.com/bodoni/typography"
+readme = "README.md"
